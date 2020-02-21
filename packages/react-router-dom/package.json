@@ -1,6 +1,6 @@
 {
   "name": "@exodus/react-router-dom",
-  "version": "5.1.2",
+  "version": "5.1.2-exodus",
   "description": "DOM bindings for React Router",
   "repository": "ReactTraining/react-router",
   "license": "MIT",
