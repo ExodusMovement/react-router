@@ -1,5 +1,5 @@
 import React from "react";
-import { __RouterContext as RouterContext } from "@exodus/react-router";
+import { __RouterContext as RouterContext } from "react-router";
 import PropTypes from "prop-types";
 import invariant from "tiny-invariant";
 import { resolveToLocation, normalizeToLocation } from "./utils/locationUtils";
