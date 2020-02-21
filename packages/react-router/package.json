@@ -1,6 +1,6 @@
 {
   "name": "@exodus/react-router",
-  "version": "5.1.2-exodus3",
+  "version": "5.1.2-exodus6",
   "description": "Declarative routing for React",
   "repository": "ReactTraining/react-router",
   "license": "MIT",
