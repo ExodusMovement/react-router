@@ -1,5 +1,8 @@
 import React from "react";
-import { __RouterContext as RouterContext, matchPath } from "react-router";
+import {
+  __RouterContext as RouterContext,
+  matchPath
+} from "@exodus/react-router";
 import PropTypes from "prop-types";
 import invariant from "tiny-invariant";
 import Link from "./Link";
