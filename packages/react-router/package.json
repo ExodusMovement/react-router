@@ -9,27 +9,9 @@
     "Ryan Florence"
   ],
   "files": [
-    "MemoryRouter.js",
-    "Prompt.js",
-    "Redirect.js",
-    "Route.js",
-    "Router.js",
-    "StaticRouter.js",
-    "Switch.js",
-    "cjs",
-    "es",
-    "esm",
-    "index.js",
-    "generatePath.js",
-    "matchPath.js",
-    "modules/*.js",
-    "modules/utils/*.js",
-    "withRouter.js",
-    "warnAboutDeprecatedCJSRequire.js",
-    "umd"
+    "cjs/@exodus/react-router.js"
   ],
-  "main": "index.js",
-  "module": "esm/react-router.js",
+  "main": "cjs/@exodus/react-router.js",
   "sideEffects": false,
   "scripts": {
     "build": "rollup -c",
