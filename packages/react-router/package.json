@@ -1,5 +1,5 @@
 {
-  "name": "react-router",
+  "name": "@exodus/react-router",
   "version": "5.1.2",
   "description": "Declarative routing for React",
   "repository": "ReactTraining/react-router",
